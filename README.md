@@ -1,1 +1,0 @@
-# JavaScript30-Day13_Slide-in-on-Scroll
