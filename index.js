@@ -19,7 +19,6 @@ const sliderImages = document.querySelectorAll(".slide-in");
 function checkSlide(e) {
   // console.count(e);
   // console.log(window.scrollY);
-  // console.log(window.innerHeight);       screen height
   sliderImages.forEach((sliderImage) => {
     // half way through the image
     const slideInAt =
